@@ -23,4 +23,4 @@ Always @(*) allows us to exicute a block of code with any combination of inputs 
 
 ### What importance is memory to digital circuits?
 
-Memory is important to digital circuits because it allows us to create the basic systems of storge
+Memory is important to digital circuits because it allows us to create the basic systems of storge, it is what all computers run off of and enable them to do tasks.
